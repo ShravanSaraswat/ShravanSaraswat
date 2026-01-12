@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">👨‍💻 Final-year CSE student with a passion for tech. 🚀 Ready to learn, innovate, and shape the future. Let's connect and make things happen! #CSEStudent #TechEnthusiast</p>
+<p align="left">👨‍💻Final-year B.Tech Computer Science student at Maharshi Dayanand University, Rohtak, with hands-on 
+experience in full-stack web development, machine learning, and Gen AI–driven applications. Actively 
+preparing for technical placements, with projects spanning real-time face recognition, cybersecurity 
+awareness, and eager to contribute in software and web development roles. </p>
 
 ###
 
